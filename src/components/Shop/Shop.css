@@ -16,3 +16,14 @@
         grid-template-columns: repeat(2, 1fr);
     }
 }
+.pagenation button{
+    margin-right: 10px;
+    border: 1px solid orange;
+    font-size: 20px;
+    background-color: white;
+    
+}
+.pagenation .selected{
+    background-color:orange;
+    color:white;
+}
